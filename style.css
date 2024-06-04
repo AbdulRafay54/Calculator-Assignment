@@ -1,0 +1,71 @@
+
+body{
+  background-color: rgb(63, 59, 59);
+}
+
+#main-heading {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  font-size: 55px;
+  color: #ff8c00;
+  border: thin;
+  text-shadow: 5px 3px black;
+}
+.box{
+   
+    width: 270px;
+    background-color: #012a4e;
+    margin: 60px auto 35px;
+    text-align: center;
+    border-radius: 25px;
+    padding: 12px 2px;
+    height: 410px;
+    border-style: solid;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+       
+}
+.eqqual{
+    width: 45px;
+  height: 45px;
+  border-radius: 50px;
+  margin: 5px;
+  font-size: 20px;
+  box-shadow: 0px 0px 7px 0px rgb(0 0 0 / 38%);
+  background-color: #f2d53c;
+  border-width: thin;
+  
+}
+.eqqual:hover{
+    cursor: pointer;
+}
+.screen{
+    
+    width: 85%;
+  height: 50px;
+  border: solid;
+  border-radius: 50px;
+  margin: 20px 0px 10px;
+  padding: 0px 10px;
+  font-size: 20px;
+  outline: none;
+  box-shadow: 0px 0px 7px 0px rgb(0 0 0 / 38%);
+  background-color: #ffb25b;
+  border-width: thin;
+  
+}
+.operator{
+    width: 45px;
+  height: 45px;
+  border-radius: 50px;
+  margin: 5px;
+  
+  box-shadow: 0px 0px 7px 0px rgb(0 0 0 / 38%);
+  background-color: #fab260;
+  border-width: thin;
+  font-size: 20px;
+
+}
+.operator:hover{
+    cursor: pointer;
+}
+
